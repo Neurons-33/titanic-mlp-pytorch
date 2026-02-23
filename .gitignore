@@ -1,0 +1,23 @@
+﻿# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# venv
+.venv/
+venv/
+
+# data (通常不推 raw)
+data/raw/*.csv
+
+# outputs
+outputs/models/*.pt
+outputs/preds/*
+outputs/submissions/*.csv
+
+# notebooks
+.ipynb_checkpoints/
+
+# os
+.DS_Store
