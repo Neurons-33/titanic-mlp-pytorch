@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+scripts/__init__.py
+scripts/make_submission.py
+scripts/run_experiment.py
+src/__init__.py
+src/features.py
+src/model.py
+src/train.py
+titanic_mlp_pytorch.egg-info/PKG-INFO
+titanic_mlp_pytorch.egg-info/SOURCES.txt
+titanic_mlp_pytorch.egg-info/dependency_links.txt
+titanic_mlp_pytorch.egg-info/top_level.txt
