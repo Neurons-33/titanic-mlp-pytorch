@@ -8,7 +8,7 @@ __pycache__/
 .venv/
 venv/
 
-# data (通常不推 raw)
+# data 
 data/raw/*.csv
 
 # outputs
@@ -21,3 +21,4 @@ outputs/submissions/*.csv
 
 # os
 .DS_Store
+*.egg-info/
