@@ -8,6 +8,7 @@ This project demonstrates:
 - Ensemble inference
 - Reproducible submission generation
 
+[![View Report](https://img.shields.io/badge/Technical_Report-View_PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://neurons-33.github.io/titanic-mlp-pytorch/reports/docs/titanic_validation_loop_v1.pdf)
 ---
 
 ## Project Structure
